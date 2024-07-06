@@ -23,5 +23,5 @@ Copy the folder to C:\ and run the freeSpoofer.exe, restart the computer once an
 
 
 <p align="center">
-  <img src="Screenshot 2024-07-06 124745.png" widht="100%" />
+  <img src="Screenshot .png" widht="100%" />
 </p>
