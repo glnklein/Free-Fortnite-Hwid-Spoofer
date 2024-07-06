@@ -20,3 +20,8 @@ The spoofer is intended as a permanent spoofer, but can also be used as a temp
 Copy the folder to C:\ and run the freeSpoofer.exe, restart the computer once and you're done.
 
 ---------------------------------------------------------------------------------------------------------
+
+
+<p align="center">
+  <img src="Screenshot 2024-07-06 124745.png" widht="100%" />
+</p>
